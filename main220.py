@@ -1,4 +1,4 @@
-a =10
+x =10
 y =5
-ans = a + y
+ans = x + y
 print(ans)
